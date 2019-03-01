@@ -1,0 +1,78 @@
+
+1,
+Thanks for the introduction
+Hi everyone, I'm Levente from Data Revolution
+I'll tell you some details of our new group
+
+Sooo, -->
+
+2,
+ who are we?
+
+we came from different fields, some have academic background, others work in fintech or IT
+we are biologists, BI analysts, dataware house specialists, or devops engineers
+
+-->
+
+3,
+we've chosen our path, it's datascience
+and we use the python language and libraries when the time comes to implement a solution
+
+-->
+
+4,
+so, I should have started with the why....
+we believe that as a team member you can reach your goals faster and easier with us
+
+-->
+
+5,
+besides you can boost your commitment, keep motivated
+share your wins and struggles, or ask for help
+so besides these benefits, you learn how to work as a team player and use the modern collaboration tools (e.g. GitHub, Slack, Jupyter notebooks)
+
+--->
+
+6,
+About our "methods"
+we derived from Pylvax, the beginner friendly python workshop series      HANDS UP WHO WAS THERE AT LEAST ONCE?  .... GREAT!
+I visited the events about 3 years ago,
+these days the project is sleeping (it's a chance for anybody!!)
+
+--->
+
+7,
+we emphasize practice over theory, learning by doing
+although at the same time we know that at an advanced level you have to study the details, what's hiding under the hood
+
+
+--->
+
+8,
+we don't have any sponsors (yet, it's another opportunity!!)
+we are enthusiastic individuals, everybody has a job and nobody works as a professional data scientist
+there isn't a leader in our tribe, like at meetup.com: every live event has one or more hosts
+
+we are working on kinda "curriculum" but we're at the beginning of our journey
+our common goal is to learn the basics and then start some fun (but real) projects in MachineLearning, or BigData, or whatever
+ 
+--->
+
+9,
+so if you share the same values, wants to learn, get and give back to a community,
+come and join us! let's grow together!
+we gather every week on saturday afternoon in the inner city
+
+every event has a topic and some requirements, be prepared!
+
+also between saturdays we are on Slack and discuss the important and less important aspects of life :)
+there are members between you, beware and ask us anything ;) thanks for your time! 
+
+
+
+
+
+
+
+ 
+
